@@ -1,0 +1,2 @@
+bienvenido = "Hola mundo"
+print(bienvenido)
